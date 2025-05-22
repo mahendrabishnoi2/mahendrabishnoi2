@@ -1,18 +1,18 @@
 Account age: **8** years
 
-Pushed **1701** commits
+Pushed **1205** commits
 
 Opened **7** issues
 
 Submitted **425** pull requests
 
-Reviewed **542** pull requests
+Reviewed **8** pull requests
 
 Received **15** stars
 
 Own **54** repositories
 
-Contributed to **18** public repositories
+Contributed to **4** public repositories
 
 Top 8 most used languages across your repositories:
 
