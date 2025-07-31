@@ -6,13 +6,13 @@ Opened **8** issues
 
 Submitted **461** pull requests
 
-Reviewed **52** pull requests
+Reviewed **54** pull requests
 
 Received **15** stars
 
 Own **54** repositories
 
-Contributed to **11** public repositories
+Contributed to **12** public repositories
 
 Top 8 most used languages across your repositories:
 
