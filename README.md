@@ -1,16 +1,16 @@
 Account age: **9** years
 
-Pushed **1367** commits
+Pushed **1388** commits
 
 Opened **11** issues
 
-Submitted **614** pull requests
+Submitted **626** pull requests
 
 Reviewed **13** pull requests
 
 Received **17** stars
 
-Own **59** repositories
+Own **60** repositories
 
 Contributed to **6** public repositories
 
@@ -23,7 +23,7 @@ Top 8 most used languages across your repositories:
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B14.6%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B13.6%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.5%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.5%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.6%25)
 
 Top 4 most used languages across your repositories:
 
