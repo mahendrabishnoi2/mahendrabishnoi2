@@ -1,25 +1,25 @@
 Account age: **9** years
 
-Pushed **1539** commits
+Pushed **1555** commits
 
-Opened **43** issues
+Opened **44** issues
 
-Submitted **722** pull requests
+Submitted **726** pull requests
 
 Reviewed **13** pull requests
 
 Received **16** stars
 
-Own **62** repositories
+Own **63** repositories
 
 Contributed to **9** public repositories
 
 Top 8 most used languages across your repositories:
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B139.7%25)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B116.8%25)
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B110.9%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B110.9%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B140.2%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B116.6%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B110.8%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B110.8%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B18.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B13.3%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.3%25)
@@ -27,7 +27,7 @@ Top 8 most used languages across your repositories:
 
 Top 4 most used languages across your repositories:
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B139.7%25)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B116.8%25)
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B110.9%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B132.4%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B140.2%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B116.6%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B110.8%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B132.2%25)
