@@ -6,7 +6,7 @@ Opened **49** issues
 
 Submitted **858** pull requests
 
-Reviewed **13** pull requests
+Reviewed **14** pull requests
 
 Received **17** stars
 
